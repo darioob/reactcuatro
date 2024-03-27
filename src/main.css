@@ -1,0 +1,22 @@
+.landingImage {
+  height: 300px;
+}
+
+.imagen {
+  height: 270px;
+  width: auto;
+  align-items: center;
+  justify-content: center;
+}
+
+.card {
+  width: 250px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.cardText {
+  width: 216px;
+}
+
